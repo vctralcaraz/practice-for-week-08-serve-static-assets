@@ -1,0 +1,1 @@
+# practice-for-week-08-serve-static-assets
